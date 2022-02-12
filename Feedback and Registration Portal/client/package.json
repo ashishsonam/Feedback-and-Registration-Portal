@@ -1,0 +1,68 @@
+{
+  "name": "feedback-form",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@progress/kendo-data-query": "1.5.5",
+    "@progress/kendo-drawing": "1.14.0",
+    "@progress/kendo-licensing": "^1.2.0",
+    "@progress/kendo-react-animation": "4.9.0",
+    "@progress/kendo-react-buttons": "4.9.0",
+    "@progress/kendo-react-common": "4.9.0",
+    "@progress/kendo-react-data-tools": "4.9.0",
+    "@progress/kendo-react-dateinputs": "4.9.0",
+    "@progress/kendo-react-dropdowns": "4.9.0",
+    "@progress/kendo-react-form": "4.9.0",
+    "@progress/kendo-react-indicators": "4.9.0",
+    "@progress/kendo-react-inputs": "4.9.0",
+    "@progress/kendo-react-intl": "4.9.0",
+    "@progress/kendo-react-labels": "4.9.0",
+    "@progress/kendo-react-layout": "4.9.0",
+    "@progress/kendo-react-listview": "4.10.0",
+    "@progress/kendo-react-popup": "4.9.0",
+    "@progress/kendo-react-progressbars": "4.9.0",
+    "@progress/kendo-react-treeview": "4.9.0",
+    "@progress/kendo-react-upload": "^4.9.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^4.5.2",
+    "moment": "^2.29.1",
+    "prop-types": "15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.19.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.4",
+    "universal-cookie": "^4.0.4",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+.head {
+  text-align: center;
+  font-weight: 500;
+  font-size: medium;
+  text-decoration: underline;
+}
+
+.form-content-separator {
+  margin-top: 20px;
+}
